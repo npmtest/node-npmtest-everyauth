@@ -1,6 +1,6 @@
 # npmtest-everyauth
 
-#### test coverage for  [everyauth (v0.4.9)](https://github.com/bnoguchi/everyauth/)  [![npm package](https://img.shields.io/npm/v/npmtest-everyauth.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-everyauth) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-everyauth.svg)](https://travis-ci.org/npmtest/node-npmtest-everyauth)
+#### basic test coverage for  [everyauth (v0.4.9)](https://github.com/bnoguchi/everyauth/)  [![npm package](https://img.shields.io/npm/v/npmtest-everyauth.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-everyauth) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-everyauth.svg)](https://travis-ci.org/npmtest/node-npmtest-everyauth)
 
 #### Auth solution (password, facebook, & more) for your node.js Connect & Express apps
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-everyauth/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-everyauth/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-everyauth/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-everyauth/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-everyauth/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-everyauth/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-everyauth/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-everyauth/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-everyauth/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-everyauth/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-everyauth/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-everyauth/build/coverage.html/index.html)
 
@@ -99,7 +99,8 @@
         "url": "git://github.com/bnoguchi/everyauth.git"
     },
     "scripts": {},
-    "version": "0.4.9"
+    "version": "0.4.9",
+    "bin": {}
 }
 ```
 
